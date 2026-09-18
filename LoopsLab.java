@@ -5,11 +5,10 @@
 package LoopsLab;
 
 import java.util.Scanner;
-import static java.lang.Math.*;
 
 /**
  *
- * @author chris
+ * @author chri
  */
 public class LoopsLab {
 
